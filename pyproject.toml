@@ -12,6 +12,7 @@ dependencies = [
     "boto3~=1.34.143",
     "dropbox~=12.0.2",
     "google-api-python-client~=2.172.0"
+    "pyOpenSSL==24.3.0"
 ]
 
 [build-system]
